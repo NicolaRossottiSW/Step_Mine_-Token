@@ -1,0 +1,7 @@
+{
+  "name": "Step Mine Token",
+  "symbol": "SMT",
+  "description": "Step Mine Token is used for mining rewards and transactions in the Step Mine ecosystem.",
+  "image": "https://raw.githubusercontent.com/NicolaRossottiSW/Step_Mine_-Token/main/Logo_SMT.png",
+  "decimals": 9
+}
